@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+#cabecera { border-bottom: solid thin; }
+
+#columnaizq { float: left ; width: 20% ;  margin-top: 1em;}
+
+#columnaizq ul { list-style-type: none; margin:0 ; padding: 0; }
+
+a {  color: red;}
+
+#columnacentro {float:left; width: 50% ; margin: 1em; color: blue;}
+
+table, th, td {border:2px solid green;} 
+
+th { background-color:green; color:white; }
+
+td { background-color:grey; color: black; }
+
+#columnaformulario { float: left; width: 20% ; color: grey; font-size: 1em; }
+
+#final { clear: both ; border-top: solid thin;}
+
+.mail { color: maroon; }
